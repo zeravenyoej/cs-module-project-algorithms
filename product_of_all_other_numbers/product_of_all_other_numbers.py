@@ -4,6 +4,8 @@ Returns: a List of integers
 '''
 import math
 
+
+# accoutnt for an array with a zero in it. check with commented out code in testfile. 
 def product_of_all_other_numbers(arr):
     new_arr = []
     for j in arr:
